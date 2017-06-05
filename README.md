@@ -43,15 +43,17 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 *111*
 ***3333***
 
-****44444****
+####44444
 
 
-	#hhh#
-##bbbb##
+#11111
+##22222222
+#####555555555
+
 
 _iiii_
 
 __bbbbbb__
 
-__bbbiiibbbb__
+_**bbbiiibbbb**_
 
